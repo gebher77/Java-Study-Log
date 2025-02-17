@@ -38,7 +38,6 @@ public class Main {
             System.out.println("Withdraw error: " + e.getMessage());
         }
 
-
         scanner.close();
     }
 }
